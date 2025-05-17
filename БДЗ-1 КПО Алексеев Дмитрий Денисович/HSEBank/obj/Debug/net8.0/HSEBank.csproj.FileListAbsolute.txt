@@ -1,0 +1,54 @@
+C:\Users\Hp\Desktop\HSEBank\obj\Debug\net8.0\HSEBank.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\HSEBank\obj\Debug\net8.0\HSEBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\HSEBank\obj\Debug\net8.0\HSEBank.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\HSEBank\obj\Debug\net8.0\HSEBank.AssemblyInfo.cs
+C:\Users\Hp\Desktop\HSEBank\obj\Debug\net8.0\HSEBank.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\HSEBank\bin\Debug\net8.0\HSEBank.exe
+C:\Users\Hp\Desktop\HSEBank\bin\Debug\net8.0\HSEBank.deps.json
+C:\Users\Hp\Desktop\HSEBank\bin\Debug\net8.0\HSEBank.runtimeconfig.json
+C:\Users\Hp\Desktop\HSEBank\bin\Debug\net8.0\HSEBank.dll
+C:\Users\Hp\Desktop\HSEBank\bin\Debug\net8.0\HSEBank.pdb
+C:\Users\Hp\Desktop\HSEBank\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Hp\Desktop\HSEBank\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Hp\Desktop\HSEBank\obj\Debug\net8.0\HSEBank.csproj.Up2Date
+C:\Users\Hp\Desktop\HSEBank\obj\Debug\net8.0\HSEBank.dll
+C:\Users\Hp\Desktop\HSEBank\obj\Debug\net8.0\refint\HSEBank.dll
+C:\Users\Hp\Desktop\HSEBank\obj\Debug\net8.0\HSEBank.pdb
+C:\Users\Hp\Desktop\HSEBank\obj\Debug\net8.0\HSEBank.genruntimeconfig.cache
+C:\Users\Hp\Desktop\HSEBank\obj\Debug\net8.0\ref\HSEBank.dll
+C:\Users\Hp\Desktop\БДЗ-1 КПО Алексеев Дмитрий Денисович\HSEBank\bin\Debug\net8.0\HSEBank.exe
+C:\Users\Hp\Desktop\БДЗ-1 КПО Алексеев Дмитрий Денисович\HSEBank\bin\Debug\net8.0\HSEBank.deps.json
+C:\Users\Hp\Desktop\БДЗ-1 КПО Алексеев Дмитрий Денисович\HSEBank\bin\Debug\net8.0\HSEBank.runtimeconfig.json
+C:\Users\Hp\Desktop\БДЗ-1 КПО Алексеев Дмитрий Денисович\HSEBank\bin\Debug\net8.0\HSEBank.dll
+C:\Users\Hp\Desktop\БДЗ-1 КПО Алексеев Дмитрий Денисович\HSEBank\bin\Debug\net8.0\HSEBank.pdb
+C:\Users\Hp\Desktop\БДЗ-1 КПО Алексеев Дмитрий Денисович\HSEBank\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Hp\Desktop\БДЗ-1 КПО Алексеев Дмитрий Денисович\HSEBank\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Hp\Desktop\БДЗ-1 КПО Алексеев Дмитрий Денисович\HSEBank\obj\Debug\net8.0\HSEBank.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\БДЗ-1 КПО Алексеев Дмитрий Денисович\HSEBank\obj\Debug\net8.0\HSEBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\БДЗ-1 КПО Алексеев Дмитрий Денисович\HSEBank\obj\Debug\net8.0\HSEBank.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\БДЗ-1 КПО Алексеев Дмитрий Денисович\HSEBank\obj\Debug\net8.0\HSEBank.AssemblyInfo.cs
+C:\Users\Hp\Desktop\БДЗ-1 КПО Алексеев Дмитрий Денисович\HSEBank\obj\Debug\net8.0\HSEBank.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\БДЗ-1 КПО Алексеев Дмитрий Денисович\HSEBank\obj\Debug\net8.0\HSEBank.csproj.Up2Date
+C:\Users\Hp\Desktop\БДЗ-1 КПО Алексеев Дмитрий Денисович\HSEBank\obj\Debug\net8.0\HSEBank.dll
+C:\Users\Hp\Desktop\БДЗ-1 КПО Алексеев Дмитрий Денисович\HSEBank\obj\Debug\net8.0\refint\HSEBank.dll
+C:\Users\Hp\Desktop\БДЗ-1 КПО Алексеев Дмитрий Денисович\HSEBank\obj\Debug\net8.0\HSEBank.pdb
+C:\Users\Hp\Desktop\БДЗ-1 КПО Алексеев Дмитрий Денисович\HSEBank\obj\Debug\net8.0\HSEBank.genruntimeconfig.cache
+C:\Users\Hp\Desktop\БДЗ-1 КПО Алексеев Дмитрий Денисович\HSEBank\obj\Debug\net8.0\ref\HSEBank.dll
+C:\Users\Hp\Desktop\КПО\БДЗ-1 КПО Алексеев Дмитрий Денисович\HSEBank\bin\Debug\net8.0\HSEBank.exe
+C:\Users\Hp\Desktop\КПО\БДЗ-1 КПО Алексеев Дмитрий Денисович\HSEBank\bin\Debug\net8.0\HSEBank.deps.json
+C:\Users\Hp\Desktop\КПО\БДЗ-1 КПО Алексеев Дмитрий Денисович\HSEBank\bin\Debug\net8.0\HSEBank.runtimeconfig.json
+C:\Users\Hp\Desktop\КПО\БДЗ-1 КПО Алексеев Дмитрий Денисович\HSEBank\bin\Debug\net8.0\HSEBank.dll
+C:\Users\Hp\Desktop\КПО\БДЗ-1 КПО Алексеев Дмитрий Денисович\HSEBank\bin\Debug\net8.0\HSEBank.pdb
+C:\Users\Hp\Desktop\КПО\БДЗ-1 КПО Алексеев Дмитрий Денисович\HSEBank\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Hp\Desktop\КПО\БДЗ-1 КПО Алексеев Дмитрий Денисович\HSEBank\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Hp\Desktop\КПО\БДЗ-1 КПО Алексеев Дмитрий Денисович\HSEBank\obj\Debug\net8.0\HSEBank.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\КПО\БДЗ-1 КПО Алексеев Дмитрий Денисович\HSEBank\obj\Debug\net8.0\HSEBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\КПО\БДЗ-1 КПО Алексеев Дмитрий Денисович\HSEBank\obj\Debug\net8.0\HSEBank.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\КПО\БДЗ-1 КПО Алексеев Дмитрий Денисович\HSEBank\obj\Debug\net8.0\HSEBank.AssemblyInfo.cs
+C:\Users\Hp\Desktop\КПО\БДЗ-1 КПО Алексеев Дмитрий Денисович\HSEBank\obj\Debug\net8.0\HSEBank.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\КПО\БДЗ-1 КПО Алексеев Дмитрий Денисович\HSEBank\obj\Debug\net8.0\HSEBank.csproj.Up2Date
+C:\Users\Hp\Desktop\КПО\БДЗ-1 КПО Алексеев Дмитрий Денисович\HSEBank\obj\Debug\net8.0\HSEBank.dll
+C:\Users\Hp\Desktop\КПО\БДЗ-1 КПО Алексеев Дмитрий Денисович\HSEBank\obj\Debug\net8.0\refint\HSEBank.dll
+C:\Users\Hp\Desktop\КПО\БДЗ-1 КПО Алексеев Дмитрий Денисович\HSEBank\obj\Debug\net8.0\HSEBank.pdb
+C:\Users\Hp\Desktop\КПО\БДЗ-1 КПО Алексеев Дмитрий Денисович\HSEBank\obj\Debug\net8.0\HSEBank.genruntimeconfig.cache
+C:\Users\Hp\Desktop\КПО\БДЗ-1 КПО Алексеев Дмитрий Денисович\HSEBank\obj\Debug\net8.0\ref\HSEBank.dll

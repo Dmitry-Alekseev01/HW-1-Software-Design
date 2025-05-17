@@ -1,0 +1,1350 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|c:\\users\\hp\\desktop\\\u043A\u043F\u043E\\\u0431\u0434\u0437-1 \u043A\u043F\u043E \u0430\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0434\u043C\u0438\u0442\u0440\u0438\u0439 \u0434\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\hsebank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|c:\\users\\hp\\desktop\\\u043A\u043F\u043E\\\u0431\u0434\u0437-1 \u043A\u043F\u043E \u0430\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0434\u043C\u0438\u0442\u0440\u0438\u0439 \u0434\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\hsebank\\bankaccounts\\bankaccountinventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|solutionrelative:bankaccounts\\bankaccountinventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|c:\\users\\hp\\desktop\\\u043A\u043F\u043E\\\u0431\u0434\u0437-1 \u043A\u043F\u043E \u0430\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0434\u043C\u0438\u0442\u0440\u0438\u0439 \u0434\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\hsebank\\accounting\\getbankaccountcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|solutionrelative:accounting\\getbankaccountcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|c:\\users\\hp\\desktop\\\u043A\u043F\u043E\\\u0431\u0434\u0437-1 \u043A\u043F\u043E \u0430\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0434\u043C\u0438\u0442\u0440\u0438\u0439 \u0434\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\hsebank\\compositionroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|solutionrelative:compositionroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|c:\\users\\hp\\desktop\\\u043A\u043F\u043E\\\u0431\u0434\u0437-1 \u043A\u043F\u043E \u0430\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0434\u043C\u0438\u0442\u0440\u0438\u0439 \u0434\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\hsebank\\operations\\operationidservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|solutionrelative:operations\\operationidservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|c:\\users\\hp\\desktop\\\u043A\u043F\u043E\\\u0431\u0434\u0437-1 \u043A\u043F\u043E \u0430\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0434\u043C\u0438\u0442\u0440\u0438\u0439 \u0434\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\hsebank\\operations\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|solutionrelative:operations\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|c:\\users\\hp\\desktop\\\u043A\u043F\u043E\\\u0431\u0434\u0437-1 \u043A\u043F\u043E \u0430\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0434\u043C\u0438\u0442\u0440\u0438\u0439 \u0434\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\hsebank\\operations\\operationparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|solutionrelative:operations\\operationparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D397BB97-62A1-4FCD-BE87-88B1CF7F2283}|..\\HSEBank.Tests\\HSEBank.Tests.csproj|c:\\users\\hp\\desktop\\\u043A\u043F\u043E\\\u0431\u0434\u0437-1 \u043A\u043F\u043E \u0430\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0434\u043C\u0438\u0442\u0440\u0438\u0439 \u0434\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\hsebank.tests\\bankaccountidservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|c:\\users\\hp\\desktop\\\u043A\u043F\u043E\\\u0431\u0434\u0437-1 \u043A\u043F\u043E \u0430\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0434\u043C\u0438\u0442\u0440\u0438\u0439 \u0434\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\hsebank\\accounting\\deletecategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|solutionrelative:accounting\\deletecategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|c:\\users\\hp\\desktop\\\u043A\u043F\u043E\\\u0431\u0434\u0437-1 \u043A\u043F\u043E \u0430\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0434\u043C\u0438\u0442\u0440\u0438\u0439 \u0434\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\hsebank\\accounting\\getcategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|solutionrelative:accounting\\getcategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|c:\\users\\hp\\desktop\\\u043A\u043F\u043E\\\u0431\u0434\u0437-1 \u043A\u043F\u043E \u0430\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0434\u043C\u0438\u0442\u0440\u0438\u0439 \u0434\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\hsebank\\operations\\operationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|solutionrelative:operations\\operationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|c:\\users\\hp\\desktop\\\u043A\u043F\u043E\\\u0431\u0434\u0437-1 \u043A\u043F\u043E \u0430\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0434\u043C\u0438\u0442\u0440\u0438\u0439 \u0434\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\hsebank\\operations\\operationinventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|solutionrelative:operations\\operationinventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|c:\\users\\hp\\desktop\\\u043A\u043F\u043E\\\u0431\u0434\u0437-1 \u043A\u043F\u043E \u0430\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0434\u043C\u0438\u0442\u0440\u0438\u0439 \u0434\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\hsebank\\operations\\operationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|solutionrelative:operations\\operationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|c:\\users\\hp\\desktop\\\u043A\u043F\u043E\\\u0431\u0434\u0437-1 \u043A\u043F\u043E \u0430\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0434\u043C\u0438\u0442\u0440\u0438\u0439 \u0434\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\hsebank\\operations\\ioperationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|solutionrelative:operations\\ioperationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|c:\\users\\hp\\desktop\\\u043A\u043F\u043E\\\u0431\u0434\u0437-1 \u043A\u043F\u043E \u0430\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0434\u043C\u0438\u0442\u0440\u0438\u0439 \u0434\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\hsebank\\operations\\ioperationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|solutionrelative:operations\\ioperationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|c:\\users\\hp\\desktop\\\u043A\u043F\u043E\\\u0431\u0434\u0437-1 \u043A\u043F\u043E \u0430\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0434\u043C\u0438\u0442\u0440\u0438\u0439 \u0434\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\hsebank\\categories\\categoryfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|solutionrelative:categories\\categoryfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|c:\\users\\hp\\desktop\\\u043A\u043F\u043E\\\u0431\u0434\u0437-1 \u043A\u043F\u043E \u0430\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0434\u043C\u0438\u0442\u0440\u0438\u0439 \u0434\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\hsebank\\categories\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|solutionrelative:categories\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Desktop\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\OperationTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|c:\\users\\hp\\desktop\\\u043A\u043F\u043E\\\u0431\u0434\u0437-1 \u043A\u043F\u043E \u0430\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0434\u043C\u0438\u0442\u0440\u0438\u0439 \u0434\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\hsebank\\reports\\reportsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|solutionrelative:reports\\reportsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|c:\\users\\hp\\desktop\\\u043A\u043F\u043E\\\u0431\u0434\u0437-1 \u043A\u043F\u043E \u0430\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0434\u043C\u0438\u0442\u0440\u0438\u0439 \u0434\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\hsebank\\reports\\reportexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|solutionrelative:reports\\reportexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|c:\\users\\hp\\desktop\\\u043A\u043F\u043E\\\u0431\u0434\u0437-1 \u043A\u043F\u043E \u0430\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0434\u043C\u0438\u0442\u0440\u0438\u0439 \u0434\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\hsebank\\reports\\reportbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|solutionrelative:reports\\reportbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|c:\\users\\hp\\desktop\\\u043A\u043F\u043E\\\u0431\u0434\u0437-1 \u043A\u043F\u043E \u0430\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0434\u043C\u0438\u0442\u0440\u0438\u0439 \u0434\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\hsebank\\reports\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|solutionrelative:reports\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|c:\\users\\hp\\desktop\\\u043A\u043F\u043E\\\u0431\u0434\u0437-1 \u043A\u043F\u043E \u0430\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0434\u043C\u0438\u0442\u0440\u0438\u0439 \u0434\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\hsebank\\reports\\markdownreportexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|solutionrelative:reports\\markdownreportexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|c:\\users\\hp\\desktop\\\u043A\u043F\u043E\\\u0431\u0434\u0437-1 \u043A\u043F\u043E \u0430\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0434\u043C\u0438\u0442\u0440\u0438\u0439 \u0434\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\hsebank\\categories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|solutionrelative:categories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|c:\\users\\hp\\desktop\\\u043A\u043F\u043E\\\u0431\u0434\u0437-1 \u043A\u043F\u043E \u0430\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0434\u043C\u0438\u0442\u0440\u0438\u0439 \u0434\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\hsebank\\categories\\icategoryfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|solutionrelative:categories\\icategoryfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|c:\\users\\hp\\desktop\\\u043A\u043F\u043E\\\u0431\u0434\u0437-1 \u043A\u043F\u043E \u0430\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0434\u043C\u0438\u0442\u0440\u0438\u0439 \u0434\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\hsebank\\categories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|solutionrelative:categories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|c:\\users\\hp\\desktop\\\u043A\u043F\u043E\\\u0431\u0434\u0437-1 \u043A\u043F\u043E \u0430\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0434\u043C\u0438\u0442\u0440\u0438\u0439 \u0434\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\hsebank\\categories\\categoryparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|solutionrelative:categories\\categoryparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|c:\\users\\hp\\desktop\\\u043A\u043F\u043E\\\u0431\u0434\u0437-1 \u043A\u043F\u043E \u0430\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0434\u043C\u0438\u0442\u0440\u0438\u0439 \u0434\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\hsebank\\categories\\categoryinventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|solutionrelative:categories\\categoryinventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|c:\\users\\hp\\desktop\\\u043A\u043F\u043E\\\u0431\u0434\u0437-1 \u043A\u043F\u043E \u0430\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0434\u043C\u0438\u0442\u0440\u0438\u0439 \u0434\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\hsebank\\categories\\categoryidservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|solutionrelative:categories\\categoryidservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|c:\\users\\hp\\desktop\\\u043A\u043F\u043E\\\u0431\u0434\u0437-1 \u043A\u043F\u043E \u0430\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0434\u043C\u0438\u0442\u0440\u0438\u0439 \u0434\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\hsebank\\bankaccounts\\ibankaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|solutionrelative:bankaccounts\\ibankaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|c:\\users\\hp\\desktop\\\u043A\u043F\u043E\\\u0431\u0434\u0437-1 \u043A\u043F\u043E \u0430\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0434\u043C\u0438\u0442\u0440\u0438\u0439 \u0434\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\hsebank\\bankaccounts\\ibankaccountfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|solutionrelative:bankaccounts\\ibankaccountfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|c:\\users\\hp\\desktop\\\u043A\u043F\u043E\\\u0431\u0434\u0437-1 \u043A\u043F\u043E \u0430\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0434\u043C\u0438\u0442\u0440\u0438\u0439 \u0434\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\hsebank\\bankaccounts\\bankaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|solutionrelative:bankaccounts\\bankaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|c:\\users\\hp\\desktop\\\u043A\u043F\u043E\\\u0431\u0434\u0437-1 \u043A\u043F\u043E \u0430\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0434\u043C\u0438\u0442\u0440\u0438\u0439 \u0434\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\hsebank\\bankaccounts\\bankaccountparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|solutionrelative:bankaccounts\\bankaccountparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|c:\\users\\hp\\desktop\\\u043A\u043F\u043E\\\u0431\u0434\u0437-1 \u043A\u043F\u043E \u0430\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0434\u043C\u0438\u0442\u0440\u0438\u0439 \u0434\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\hsebank\\bankaccounts\\bankaccountidservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|solutionrelative:bankaccounts\\bankaccountidservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|c:\\users\\hp\\desktop\\\u043A\u043F\u043E\\\u0431\u0434\u0437-1 \u043A\u043F\u043E \u0430\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0434\u043C\u0438\u0442\u0440\u0438\u0439 \u0434\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\hsebank\\bankaccounts\\bankaccountfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|solutionrelative:bankaccounts\\bankaccountfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|c:\\users\\hp\\desktop\\\u043A\u043F\u043E\\\u0431\u0434\u0437-1 \u043A\u043F\u043E \u0430\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0434\u043C\u0438\u0442\u0440\u0438\u0439 \u0434\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\hsebank\\bankaccounts\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|solutionrelative:bankaccounts\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|c:\\users\\hp\\desktop\\\u043A\u043F\u043E\\\u0431\u0434\u0437-1 \u043A\u043F\u043E \u0430\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0434\u043C\u0438\u0442\u0440\u0438\u0439 \u0434\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\hsebank\\accounting\\updateoperationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|solutionrelative:accounting\\updateoperationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|c:\\users\\hp\\desktop\\\u043A\u043F\u043E\\\u0431\u0434\u0437-1 \u043A\u043F\u043E \u0430\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0434\u043C\u0438\u0442\u0440\u0438\u0439 \u0434\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\hsebank\\accounting\\updatecategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|solutionrelative:accounting\\updatecategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|c:\\users\\hp\\desktop\\\u043A\u043F\u043E\\\u0431\u0434\u0437-1 \u043A\u043F\u043E \u0430\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0434\u043C\u0438\u0442\u0440\u0438\u0439 \u0434\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\hsebank\\accounting\\updatebankaccountcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|solutionrelative:accounting\\updatebankaccountcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|c:\\users\\hp\\desktop\\\u043A\u043F\u043E\\\u0431\u0434\u0437-1 \u043A\u043F\u043E \u0430\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0434\u043C\u0438\u0442\u0440\u0438\u0439 \u0434\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\hsebank\\accounting\\pendingcommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|solutionrelative:accounting\\pendingcommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|c:\\users\\hp\\desktop\\\u043A\u043F\u043E\\\u0431\u0434\u0437-1 \u043A\u043F\u043E \u0430\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0434\u043C\u0438\u0442\u0440\u0438\u0439 \u0434\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\hsebank\\accounting\\iaccountingsessioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|solutionrelative:accounting\\iaccountingsessioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|c:\\users\\hp\\desktop\\\u043A\u043F\u043E\\\u0431\u0434\u0437-1 \u043A\u043F\u043E \u0430\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0434\u043C\u0438\u0442\u0440\u0438\u0439 \u0434\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\hsebank\\accounting\\getoperationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|solutionrelative:accounting\\getoperationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|c:\\users\\hp\\desktop\\\u043A\u043F\u043E\\\u0431\u0434\u0437-1 \u043A\u043F\u043E \u0430\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0434\u043C\u0438\u0442\u0440\u0438\u0439 \u0434\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\hsebank\\accounting\\deleteoperationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|solutionrelative:accounting\\deleteoperationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|c:\\users\\hp\\desktop\\\u043A\u043F\u043E\\\u0431\u0434\u0437-1 \u043A\u043F\u043E \u0430\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0434\u043C\u0438\u0442\u0440\u0438\u0439 \u0434\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\hsebank\\accounting\\deletebankaccountcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|solutionrelative:accounting\\deletebankaccountcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|c:\\users\\hp\\desktop\\\u043A\u043F\u043E\\\u0431\u0434\u0437-1 \u043A\u043F\u043E \u0430\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0434\u043C\u0438\u0442\u0440\u0438\u0439 \u0434\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\hsebank\\accounting\\addoperationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|solutionrelative:accounting\\addoperationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|c:\\users\\hp\\desktop\\\u043A\u043F\u043E\\\u0431\u0434\u0437-1 \u043A\u043F\u043E \u0430\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0434\u043C\u0438\u0442\u0440\u0438\u0439 \u0434\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\hsebank\\accounting\\addcategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|solutionrelative:accounting\\addcategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|c:\\users\\hp\\desktop\\\u043A\u043F\u043E\\\u0431\u0434\u0437-1 \u043A\u043F\u043E \u0430\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0434\u043C\u0438\u0442\u0440\u0438\u0439 \u0434\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\hsebank\\accounting\\addbankaccountcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F959F25E-035E-4EC3-AFD1-1965EECDCE7A}|HSEBank.csproj|solutionrelative:accounting\\addbankaccountcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Desktop\\HSEBank.Tests\\OperationCommandsTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Desktop\\HSEBank.Tests\\BankAccountCommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Desktop\\HSEBank.Tests\\BankAccountRepositoryTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Desktop\\HSEBank.Tests\\BankAccountServiceTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Desktop\\HSEBank.Tests\\CategoryCommandsTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Desktop\\HSEBank.Tests\\OperationServiceTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Desktop\\HSEBank.Tests\\OperationRepositoryTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Desktop\\HSEBank.Tests\\CategoryRepositoryTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Desktop\\HSEBank.Tests\\CategoryServiceTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Desktop\\HSEBank.Tests\\CategoryTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Desktop\\HSEBank.Tests\\BankAccountTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Desktop\\HSEBank.Tests\\BankAccountFactoryTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Desktop\\HSEBank.Tests\\OperationTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Desktop\\HSEBank.Tests\\OperationIDServiceTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Desktop\\HSEBank.Tests\\OperationFactoryTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Desktop\\HSEBank.Tests\\CategoryIDServiceTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Desktop\\HSEBank.Tests\\CategoryFactoryTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Desktop\\HSEBank.Tests\\BankAccountIDServiceTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Desktop\\HSEBank.Tests\\HSEBank.Tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Desktop\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\OperationServiceTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Desktop\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\OperationRepositoryTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Desktop\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\OperationIDServiceTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Desktop\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\OperationFactoryTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Desktop\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\OperationCommandsTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Desktop\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\CategoryTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Desktop\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\CategoryServiceTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Desktop\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\CategoryRepositoryTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Desktop\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\CategoryIDServiceTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Desktop\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\CategoryCommandsTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Desktop\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\BankAccountServiceTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Desktop\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\BankAccountRepositoryTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Desktop\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\BankAccountIDServiceTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Desktop\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\CategoryFactoryTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Desktop\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\BankAccountCommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Desktop\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\BankAccountTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Desktop\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\BankAccountFactoryTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Desktop\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\HSEBank.Tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 381,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OperationParams.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\Operations\\OperationParams.cs",
+              "RelativeDocumentMoniker": "Operations\\OperationParams.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\Operations\\OperationParams.cs",
+              "RelativeToolTip": "Operations\\OperationParams.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T23:12:19.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CompositionRoot.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\CompositionRoot.cs",
+              "RelativeDocumentMoniker": "CompositionRoot.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\CompositionRoot.cs",
+              "RelativeToolTip": "CompositionRoot.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAqwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T21:56:37.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Operation.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\Operations\\Operation.cs",
+              "RelativeDocumentMoniker": "Operations\\Operation.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\Operations\\Operation.cs",
+              "RelativeToolTip": "Operations\\Operation.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwCsAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T16:48:13.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetBankAccountCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\Accounting\\GetBankAccountCommand.cs",
+              "RelativeDocumentMoniker": "Accounting\\GetBankAccountCommand.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\Accounting\\GetBankAccountCommand.cs",
+              "RelativeToolTip": "Accounting\\GetBankAccountCommand.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T16:49:50.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OperationIDService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\Operations\\OperationIDService.cs",
+              "RelativeDocumentMoniker": "Operations\\OperationIDService.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\Operations\\OperationIDService.cs",
+              "RelativeToolTip": "Operations\\OperationIDService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T10:01:40.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankAccountInventoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\BankAccounts\\BankAccountInventoryService.cs",
+              "RelativeDocumentMoniker": "BankAccounts\\BankAccountInventoryService.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\BankAccounts\\BankAccountInventoryService.cs",
+              "RelativeToolTip": "BankAccounts\\BankAccountInventoryService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwCwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T23:13:10.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAkwBkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T14:03:58.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BankAccountIDServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\BankAccountIDServiceTest.cs",
+              "RelativeDocumentMoniker": "..\\HSEBank.Tests\\BankAccountIDServiceTest.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\BankAccountIDServiceTest.cs",
+              "RelativeToolTip": "..\\HSEBank.Tests\\BankAccountIDServiceTest.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T21:26:27.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DeleteCategoryCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\Accounting\\DeleteCategoryCommand.cs",
+              "RelativeDocumentMoniker": "Accounting\\DeleteCategoryCommand.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\Accounting\\DeleteCategoryCommand.cs",
+              "RelativeToolTip": "Accounting\\DeleteCategoryCommand.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T16:49:29.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetCategoryCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\Accounting\\GetCategoryCommand.cs",
+              "RelativeDocumentMoniker": "Accounting\\GetCategoryCommand.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\Accounting\\GetCategoryCommand.cs",
+              "RelativeToolTip": "Accounting\\GetCategoryCommand.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T16:50:05.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OperationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\Operations\\OperationRepository.cs",
+              "RelativeDocumentMoniker": "Operations\\OperationRepository.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\Operations\\OperationRepository.cs",
+              "RelativeToolTip": "Operations\\OperationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T09:00:16.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OperationInventoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\Operations\\OperationInventoryService.cs",
+              "RelativeDocumentMoniker": "Operations\\OperationInventoryService.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\Operations\\OperationInventoryService.cs",
+              "RelativeToolTip": "Operations\\OperationInventoryService.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwBIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T08:22:32.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OperationFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\Operations\\OperationFactory.cs",
+              "RelativeDocumentMoniker": "Operations\\OperationFactory.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\Operations\\OperationFactory.cs",
+              "RelativeToolTip": "Operations\\OperationFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T08:59:58.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IOperationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\Operations\\IOperationRepository.cs",
+              "RelativeDocumentMoniker": "Operations\\IOperationRepository.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\Operations\\IOperationRepository.cs",
+              "RelativeToolTip": "Operations\\IOperationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T09:00:09.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IOperationFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\Operations\\IOperationFactory.cs",
+              "RelativeDocumentMoniker": "Operations\\IOperationFactory.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\Operations\\IOperationFactory.cs",
+              "RelativeToolTip": "Operations\\IOperationFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T10:01:23.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CategoryFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\Categories\\CategoryFactory.cs",
+              "RelativeDocumentMoniker": "Categories\\CategoryFactory.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\Categories\\CategoryFactory.cs",
+              "RelativeToolTip": "Categories\\CategoryFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T08:16:48.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\Categories\\Category.cs",
+              "RelativeDocumentMoniker": "Categories\\Category.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\Categories\\Category.cs",
+              "RelativeToolTip": "Categories\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T17:50:44.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OperationTest.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\OperationTest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\OperationTest.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\OperationTest.cs",
+              "RelativeToolTip": "..\\..\\..\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\OperationTest.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T11:46:33.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "OperationCommandsTest.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\OperationCommandsTest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\OperationCommandsTest.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\OperationCommandsTest.cs",
+              "RelativeToolTip": "..\\..\\..\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\OperationCommandsTest.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAA3wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T11:44:20.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "OperationFactoryTest.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\OperationFactoryTest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\OperationFactoryTest.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\OperationFactoryTest.cs",
+              "RelativeToolTip": "..\\..\\..\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\OperationFactoryTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T11:44:25.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "OperationIDServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\OperationIDServiceTest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\OperationIDServiceTest.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\OperationIDServiceTest.cs",
+              "RelativeToolTip": "..\\..\\..\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\OperationIDServiceTest.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T11:44:40.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "OperationRepositoryTest.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\OperationRepositoryTest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\OperationRepositoryTest.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\OperationRepositoryTest.cs",
+              "RelativeToolTip": "..\\..\\..\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\OperationRepositoryTest.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAgwGAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T11:44:45.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "OperationServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\OperationServiceTest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\OperationServiceTest.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\OperationServiceTest.cs",
+              "RelativeToolTip": "..\\..\\..\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\OperationServiceTest.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAkwF0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T11:45:23.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "CategoryTest.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\CategoryTest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\CategoryTest.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\CategoryTest.cs",
+              "RelativeToolTip": "..\\..\\..\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\CategoryTest.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAswAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T11:43:53.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "CategoryServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\CategoryServiceTest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\CategoryServiceTest.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\CategoryServiceTest.cs",
+              "RelativeToolTip": "..\\..\\..\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\CategoryServiceTest.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAgwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T11:43:37.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "CategoryRepositoryTest.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\CategoryRepositoryTest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\CategoryRepositoryTest.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\CategoryRepositoryTest.cs",
+              "RelativeToolTip": "..\\..\\..\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\CategoryRepositoryTest.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T11:43:31.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "CategoryIDServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\CategoryIDServiceTest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\CategoryIDServiceTest.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\CategoryIDServiceTest.cs",
+              "RelativeToolTip": "..\\..\\..\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\CategoryIDServiceTest.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T11:43:26.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "CategoryCommandsTest.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\CategoryCommandsTest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\CategoryCommandsTest.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\CategoryCommandsTest.cs",
+              "RelativeToolTip": "..\\..\\..\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\CategoryCommandsTest.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T11:43:15.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "BankAccountServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\BankAccountServiceTest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\BankAccountServiceTest.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\BankAccountServiceTest.cs",
+              "RelativeToolTip": "..\\..\\..\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\BankAccountServiceTest.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAgwE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T11:35:14.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "BankAccountRepositoryTest.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\BankAccountRepositoryTest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\BankAccountRepositoryTest.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\BankAccountRepositoryTest.cs",
+              "RelativeToolTip": "..\\..\\..\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\BankAccountRepositoryTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T11:35:05.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "BankAccountIDServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\BankAccountIDServiceTest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\BankAccountIDServiceTest.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\BankAccountIDServiceTest.cs",
+              "RelativeToolTip": "..\\..\\..\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\BankAccountIDServiceTest.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T11:35:00.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "CategoryFactoryTest.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\CategoryFactoryTest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\CategoryFactoryTest.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\CategoryFactoryTest.cs",
+              "RelativeToolTip": "..\\..\\..\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\CategoryFactoryTest.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T11:20:02.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "BankAccountCommands.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\BankAccountCommands.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\BankAccountCommands.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\BankAccountCommands.cs",
+              "RelativeToolTip": "..\\..\\..\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\BankAccountCommands.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAYwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T11:34:47.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ReportBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\Reports\\ReportBuilder.cs",
+              "RelativeDocumentMoniker": "Reports\\ReportBuilder.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\Reports\\ReportBuilder.cs",
+              "RelativeToolTip": "Reports\\ReportBuilder.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwDwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T20:57:55.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "BankAccountTest.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\BankAccountTest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\BankAccountTest.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\BankAccountTest.cs",
+              "RelativeToolTip": "..\\..\\..\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\BankAccountTest.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T11:19:32.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Report.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\Reports\\Report.cs",
+              "RelativeDocumentMoniker": "Reports\\Report.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\Reports\\Report.cs",
+              "RelativeToolTip": "Reports\\Report.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T22:00:48.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ReportExporter.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\Reports\\ReportExporter.cs",
+              "RelativeDocumentMoniker": "Reports\\ReportExporter.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\Reports\\ReportExporter.cs",
+              "RelativeToolTip": "Reports\\ReportExporter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T22:13:34.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ReportsService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\Reports\\ReportsService.cs",
+              "RelativeDocumentMoniker": "Reports\\ReportsService.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\Reports\\ReportsService.cs",
+              "RelativeToolTip": "Reports\\ReportsService.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwDEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T21:46:03.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "BankAccountFactoryTest.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\BankAccountFactoryTest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\BankAccountFactoryTest.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\BankAccountFactoryTest.cs",
+              "RelativeToolTip": "..\\..\\..\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\BankAccountFactoryTest.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T07:42:44.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MarkDownReportExporter.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\Reports\\MarkDownReportExporter.cs",
+              "RelativeDocumentMoniker": "Reports\\MarkDownReportExporter.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\Reports\\MarkDownReportExporter.cs",
+              "RelativeToolTip": "Reports\\MarkDownReportExporter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T11:30:12.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\Categories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Categories\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\Categories\\ICategoryRepository.cs",
+              "RelativeToolTip": "Categories\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T08:59:44.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ICategoryFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\Categories\\ICategoryFactory.cs",
+              "RelativeDocumentMoniker": "Categories\\ICategoryFactory.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\Categories\\ICategoryFactory.cs",
+              "RelativeToolTip": "Categories\\ICategoryFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T08:16:44.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\Categories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Categories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\Categories\\CategoryRepository.cs",
+              "RelativeToolTip": "Categories\\CategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T08:16:25.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CategoryParams.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\Categories\\CategoryParams.cs",
+              "RelativeDocumentMoniker": "Categories\\CategoryParams.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\Categories\\CategoryParams.cs",
+              "RelativeToolTip": "Categories\\CategoryParams.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T18:48:30.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CategoryInventoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\Categories\\CategoryInventoryService.cs",
+              "RelativeDocumentMoniker": "Categories\\CategoryInventoryService.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\Categories\\CategoryInventoryService.cs",
+              "RelativeToolTip": "Categories\\CategoryInventoryService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwC8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T10:49:29.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CategoryIDService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\Categories\\CategoryIDService.cs",
+              "RelativeDocumentMoniker": "Categories\\CategoryIDService.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\Categories\\CategoryIDService.cs",
+              "RelativeToolTip": "Categories\\CategoryIDService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T11:08:33.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IBankAccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\BankAccounts\\IBankAccountRepository.cs",
+              "RelativeDocumentMoniker": "BankAccounts\\IBankAccountRepository.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\BankAccounts\\IBankAccountRepository.cs",
+              "RelativeToolTip": "BankAccounts\\IBankAccountRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T08:33:58.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IBankAccountFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\BankAccounts\\IBankAccountFactory.cs",
+              "RelativeDocumentMoniker": "BankAccounts\\IBankAccountFactory.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\BankAccounts\\IBankAccountFactory.cs",
+              "RelativeToolTip": "BankAccounts\\IBankAccountFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T08:06:13.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BankAccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\BankAccounts\\BankAccountRepository.cs",
+              "RelativeDocumentMoniker": "BankAccounts\\BankAccountRepository.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\BankAccounts\\BankAccountRepository.cs",
+              "RelativeToolTip": "BankAccounts\\BankAccountRepository.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAkwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T17:28:03.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "BankAccountParams.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\BankAccounts\\BankAccountParams.cs",
+              "RelativeDocumentMoniker": "BankAccounts\\BankAccountParams.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\BankAccounts\\BankAccountParams.cs",
+              "RelativeToolTip": "BankAccounts\\BankAccountParams.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T17:27:53.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "BankAccountIDService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\BankAccounts\\BankAccountIDService.cs",
+              "RelativeDocumentMoniker": "BankAccounts\\BankAccountIDService.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\BankAccounts\\BankAccountIDService.cs",
+              "RelativeToolTip": "BankAccounts\\BankAccountIDService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T17:41:40.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "BankAccountFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\BankAccounts\\BankAccountFactory.cs",
+              "RelativeDocumentMoniker": "BankAccounts\\BankAccountFactory.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\BankAccounts\\BankAccountFactory.cs",
+              "RelativeToolTip": "BankAccounts\\BankAccountFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T17:54:44.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\BankAccounts\\BankAccount.cs",
+              "RelativeDocumentMoniker": "BankAccounts\\BankAccount.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\BankAccounts\\BankAccount.cs",
+              "RelativeToolTip": "BankAccounts\\BankAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAByAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T15:09:24.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "UpdateOperationCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\Accounting\\UpdateOperationCommand.cs",
+              "RelativeDocumentMoniker": "Accounting\\UpdateOperationCommand.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\Accounting\\UpdateOperationCommand.cs",
+              "RelativeToolTip": "Accounting\\UpdateOperationCommand.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T16:51:54.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "UpdateCategoryCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\Accounting\\UpdateCategoryCommand.cs",
+              "RelativeDocumentMoniker": "Accounting\\UpdateCategoryCommand.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\Accounting\\UpdateCategoryCommand.cs",
+              "RelativeToolTip": "Accounting\\UpdateCategoryCommand.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwBoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T16:51:31.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UpdateBankAccountCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\Accounting\\UpdateBankAccountCommand.cs",
+              "RelativeDocumentMoniker": "Accounting\\UpdateBankAccountCommand.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\Accounting\\UpdateBankAccountCommand.cs",
+              "RelativeToolTip": "Accounting\\UpdateBankAccountCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T16:50:27.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "PendingCommandService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\Accounting\\PendingCommandService.cs",
+              "RelativeDocumentMoniker": "Accounting\\PendingCommandService.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\Accounting\\PendingCommandService.cs",
+              "RelativeToolTip": "Accounting\\PendingCommandService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T10:43:07.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IAccountingSessionCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\Accounting\\IAccountingSessionCommand.cs",
+              "RelativeDocumentMoniker": "Accounting\\IAccountingSessionCommand.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\Accounting\\IAccountingSessionCommand.cs",
+              "RelativeToolTip": "Accounting\\IAccountingSessionCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:07:35.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "GetOperationCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\Accounting\\GetOperationCommand.cs",
+              "RelativeDocumentMoniker": "Accounting\\GetOperationCommand.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\Accounting\\GetOperationCommand.cs",
+              "RelativeToolTip": "Accounting\\GetOperationCommand.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T16:50:14.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "DeleteOperationCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\Accounting\\DeleteOperationCommand.cs",
+              "RelativeDocumentMoniker": "Accounting\\DeleteOperationCommand.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\Accounting\\DeleteOperationCommand.cs",
+              "RelativeToolTip": "Accounting\\DeleteOperationCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T16:49:40.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "DeleteBankAccountCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\Accounting\\DeleteBankAccountCommand.cs",
+              "RelativeDocumentMoniker": "Accounting\\DeleteBankAccountCommand.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\Accounting\\DeleteBankAccountCommand.cs",
+              "RelativeToolTip": "Accounting\\DeleteBankAccountCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T18:29:34.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "AddOperationCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\Accounting\\AddOperationCommand.cs",
+              "RelativeDocumentMoniker": "Accounting\\AddOperationCommand.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\Accounting\\AddOperationCommand.cs",
+              "RelativeToolTip": "Accounting\\AddOperationCommand.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T16:49:17.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "AddCategoryCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\Accounting\\AddCategoryCommand.cs",
+              "RelativeDocumentMoniker": "Accounting\\AddCategoryCommand.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\Accounting\\AddCategoryCommand.cs",
+              "RelativeToolTip": "Accounting\\AddCategoryCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T18:29:29.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "AddBankAccountCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\Accounting\\AddBankAccountCommand.cs",
+              "RelativeDocumentMoniker": "Accounting\\AddBankAccountCommand.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\\u041A\u041F\u041E\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank\\Accounting\\AddBankAccountCommand.cs",
+              "RelativeToolTip": "Accounting\\AddBankAccountCommand.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T18:02:20.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "HSEBank.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\HSEBank.Tests.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\HSEBank.Tests.csproj",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\HSEBank.Tests.csproj",
+              "RelativeToolTip": "..\\..\\..\\\u0411\u0414\u0417-1 \u041A\u041F\u041E \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447\\HSEBank.Tests\\HSEBank.Tests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-20T11:16:34.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "OperationCommandsTest.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\HSEBank.Tests\\OperationCommandsTest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\HSEBank.Tests\\OperationCommandsTest.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\HSEBank.Tests\\OperationCommandsTest.cs",
+              "RelativeToolTip": "..\\..\\..\\HSEBank.Tests\\OperationCommandsTest.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAwwC4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T13:08:39.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "BankAccountCommands.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\HSEBank.Tests\\BankAccountCommands.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\HSEBank.Tests\\BankAccountCommands.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\HSEBank.Tests\\BankAccountCommands.cs",
+              "RelativeToolTip": "..\\..\\..\\HSEBank.Tests\\BankAccountCommands.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAkwEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T13:03:13.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "BankAccountRepositoryTest.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\HSEBank.Tests\\BankAccountRepositoryTest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\HSEBank.Tests\\BankAccountRepositoryTest.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\HSEBank.Tests\\BankAccountRepositoryTest.cs",
+              "RelativeToolTip": "..\\..\\..\\HSEBank.Tests\\BankAccountRepositoryTest.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwDEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T08:33:21.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "BankAccountServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\HSEBank.Tests\\BankAccountServiceTest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\HSEBank.Tests\\BankAccountServiceTest.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\HSEBank.Tests\\BankAccountServiceTest.cs",
+              "RelativeToolTip": "..\\..\\..\\HSEBank.Tests\\BankAccountServiceTest.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAQwDUAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T10:29:59.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "CategoryCommandsTest.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\HSEBank.Tests\\CategoryCommandsTest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\HSEBank.Tests\\CategoryCommandsTest.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\HSEBank.Tests\\CategoryCommandsTest.cs",
+              "RelativeToolTip": "..\\..\\..\\HSEBank.Tests\\CategoryCommandsTest.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwB8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T13:08:06.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "OperationServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\HSEBank.Tests\\OperationServiceTest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\HSEBank.Tests\\OperationServiceTest.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\HSEBank.Tests\\OperationServiceTest.cs",
+              "RelativeToolTip": "..\\..\\..\\HSEBank.Tests\\OperationServiceTest.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAYwI4AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T12:39:14.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "OperationRepositoryTest.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\HSEBank.Tests\\OperationRepositoryTest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\HSEBank.Tests\\OperationRepositoryTest.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\HSEBank.Tests\\OperationRepositoryTest.cs",
+              "RelativeToolTip": "..\\..\\..\\HSEBank.Tests\\OperationRepositoryTest.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAYwG4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T09:52:10.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "CategoryRepositoryTest.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\HSEBank.Tests\\CategoryRepositoryTest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\HSEBank.Tests\\CategoryRepositoryTest.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\HSEBank.Tests\\CategoryRepositoryTest.cs",
+              "RelativeToolTip": "..\\..\\..\\HSEBank.Tests\\CategoryRepositoryTest.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAwDIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T09:03:03.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "CategoryServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\HSEBank.Tests\\CategoryServiceTest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\HSEBank.Tests\\CategoryServiceTest.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\HSEBank.Tests\\CategoryServiceTest.cs",
+              "RelativeToolTip": "..\\..\\..\\HSEBank.Tests\\CategoryServiceTest.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAgwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T12:21:59.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "CategoryTest.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\HSEBank.Tests\\CategoryTest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\HSEBank.Tests\\CategoryTest.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\HSEBank.Tests\\CategoryTest.cs",
+              "RelativeToolTip": "..\\..\\..\\HSEBank.Tests\\CategoryTest.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAkwDUAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T17:29:03.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "BankAccountTest.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\HSEBank.Tests\\BankAccountTest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\HSEBank.Tests\\BankAccountTest.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\HSEBank.Tests\\BankAccountTest.cs",
+              "RelativeToolTip": "..\\..\\..\\HSEBank.Tests\\BankAccountTest.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T16:59:39.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "BankAccountFactoryTest.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\HSEBank.Tests\\BankAccountFactoryTest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\HSEBank.Tests\\BankAccountFactoryTest.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\HSEBank.Tests\\BankAccountFactoryTest.cs",
+              "RelativeToolTip": "..\\..\\..\\HSEBank.Tests\\BankAccountFactoryTest.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T07:57:54.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "OperationTest.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\HSEBank.Tests\\OperationTest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\HSEBank.Tests\\OperationTest.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\HSEBank.Tests\\OperationTest.cs",
+              "RelativeToolTip": "..\\..\\..\\HSEBank.Tests\\OperationTest.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAIwFsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T18:47:51.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "OperationIDServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\HSEBank.Tests\\OperationIDServiceTest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\HSEBank.Tests\\OperationIDServiceTest.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\HSEBank.Tests\\OperationIDServiceTest.cs",
+              "RelativeToolTip": "..\\..\\..\\HSEBank.Tests\\OperationIDServiceTest.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAgwA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T11:13:36.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "OperationFactoryTest.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\HSEBank.Tests\\OperationFactoryTest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\HSEBank.Tests\\OperationFactoryTest.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\HSEBank.Tests\\OperationFactoryTest.cs",
+              "RelativeToolTip": "..\\..\\..\\HSEBank.Tests\\OperationFactoryTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAG0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T08:17:52.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "CategoryIDServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\HSEBank.Tests\\CategoryIDServiceTest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\HSEBank.Tests\\CategoryIDServiceTest.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\HSEBank.Tests\\CategoryIDServiceTest.cs",
+              "RelativeToolTip": "..\\..\\..\\HSEBank.Tests\\CategoryIDServiceTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T11:05:38.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "CategoryFactoryTest.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\HSEBank.Tests\\CategoryFactoryTest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\HSEBank.Tests\\CategoryFactoryTest.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\HSEBank.Tests\\CategoryFactoryTest.cs",
+              "RelativeToolTip": "..\\..\\..\\HSEBank.Tests\\CategoryFactoryTest.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T08:07:28.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "BankAccountIDServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\HSEBank.Tests\\BankAccountIDServiceTest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\HSEBank.Tests\\BankAccountIDServiceTest.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\HSEBank.Tests\\BankAccountIDServiceTest.cs",
+              "RelativeToolTip": "..\\..\\..\\HSEBank.Tests\\BankAccountIDServiceTest.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T08:23:18.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "HSEBank.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\HSEBank.Tests\\HSEBank.Tests.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\HSEBank.Tests\\HSEBank.Tests.csproj",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\HSEBank.Tests\\HSEBank.Tests.csproj",
+              "RelativeToolTip": "..\\..\\..\\HSEBank.Tests\\HSEBank.Tests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-18T16:59:48.757Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 144,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
